@@ -7,8 +7,6 @@ Este repositório contém o código desenvolvido para o projeto **Trabalho de En
 ## Equipe 👥
 
 - **José Freitas Alves Neto**
-- **Lia Santos**
-- **Lucas do Vale Pimentel**
 
 ## Sobre o Dataset 🗃️
 
